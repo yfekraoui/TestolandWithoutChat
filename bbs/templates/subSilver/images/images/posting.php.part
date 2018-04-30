@@ -1,0 +1,300 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SLAVX </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="top" href="./index.php" title="SLAVX Index du Forum" />
+<link rel="search" href="./search.php" title="Rechercher" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Liste des Membres" />
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function ow(theURL,winName,features) {
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #284555;
+	font-color: #284555;
+	background-color: #6090BE;
+	background-image: url(/img/body_bg.gif);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	scrollbar-base-color: #6090BE;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#marginTable {
+	margin-left:150px;
+}
+a {
+	color: #6090BE;
+	font-weight: bold;
+}
+a:active{
+	color: #6090BE;
+	text-decoration: none;
+}
+a:visited {
+	color: #6090BE;
+	text-decoration: none;
+}
+a:link {
+	color: #6090BE;
+	text-decoration: none;
+}
+a:hover {
+	color: #6090BE;
+	text-decoration: underline;
+}
+table {
+	font-size: 11px;
+	font-color: #284555;
+}
+.titrebeige {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #726338;
+}
+.titrebleu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #6090BE;
+}
+.infobeige {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #A69052;
+}
+.footer{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #D5E6F3;
+}
+.footer a:link{
+	color: #D5E6F3;
+}
+.footer a:hover{
+	color: #D5E6F3;
+}
+.footer a:visited{
+	color: #D5E6F3;
+}
+.footer a:active{
+	color: #D5E6F3;
+}
+.nav {
+		font: normal 10px Verdana;
+		color: #284555;
+}
+.nav a{
+		color: #284555;
+		font-weight: normal;
+		padding-left: 16px;
+}
+.nav a:hoover{
+		color: #284555;
+		font-weight: normal;
+}
+.nav a:visited{
+		color: #284555;
+		font-weight: normal;
+}
+.nav a:active{
+		color: #284555;
+		font-weight: normal;
+}
+.nav .title {
+	color: #6090BE;
+	font-size: 11px;
+	font-weight: bold;
+}
+.slotservices a:link{
+		color: #FF3399;
+}
+.slotservices a:hoover{
+		color: #FF3399;
+}
+.slotservices a:visited{
+		color: #FF3399;
+}
+.slotservices a:active{
+	color: #FF3399;
+}.subnav a:link{
+		color: #FFFFFF;
+}
+.subnav a:hoover{
+		color: #FFFFFF;
+}
+.subnav a:visited{
+		color: #FFFFFF;
+}
+.subnav a:active{
+	color: #FFFFFF;
+}
+.gensmall{
+	font-size: 10px;
+}
+
+input,textarea, select {
+	color : #000000;
+	font: normal 10px Verdana, Arial, Helvetica, sans-serif;
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #EBF4F9; border: #D2E4F2; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+-->
+</style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a name="top"></a>
+<div align="left">
+  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+  codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+  width="800" height="110" align="middle">
+	<param name="allowScriptAccess" value="always" />
+	<param name="movie" value="/swf/header.swf" />
+	<param name="menu" value="false" />
+	<param name="quality" value="high" />
+	<param name="FlashVars" value="t=1250435797&mid=&p=&k=&ad=r;1;1;1;1&m=normal&" />
+	<embed src="/swf/header.swf"
+		 FlashVars="t=1250435797&mid=&p=&k=&ad=r;1;1;1;1&m=normal&"
+		 menu="false" quality="high" width="800" height="110" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+  </object>
+</div>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<!-- Left Nav Barre -->
+<tr>
+<td valign="top">
+<div id="navbar">
+<table width="147" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+  <td background="templates/chapatiz/images/chapa_tile_nav.gif"><img src="/img/top_navbar.gif"></td>
+  </tr>
+  <tr>
+	<td valign="top" background="/img/navbar_bg.gif">
+	  <table width="0" border="0" cellpadding="4" cellspacing="0" class="nav">
+		<tr>
+			<td width="130">
+			<span class="title">Général</span><br />
+<a href="/">Accueil</a><br />
+<a href="/signup/">M'inscrire</a><br />
+<a href="/bbs/login.php">Me connecter</a>
+
+<img src="/img/separator.gif" />
+
+<span class="title">Infos</span><br />
+<a href="/faq/">F.A.Q</a>
+
+<img src="/img/separator.gif" />
+
+<span class="title">Activités</span><br />
+<a href="/bacteria/">Bacteria</a><br />
+<a href="/patojdur/">Patojdur</a><br />
+<a href="/wedding/">Mariages</a><br />
+<a href="/mazo/">MaZo</a><br />
+
+<img src="/img/separator.gif" />
+
+<span class="title">Communauté</span><br />
+<a href="/book/">Annuaire</a><br />
+<a href="/bbs/">BBS (forums)</a><br />
+
+<img src="/img/separator.gif" />
+
+<span class="title">À propos</span><br />
+<a href="/infos/">Infos</a>
+			</td>
+		</tr>
+	  </table>
+	 </td>
+  </tr>
+  <tr>
+	<td height="90" background="/img/bottom_navbar.gif">&nbsp;</td>
+  </tr>
+</table>
+</div>
+</td>
+<!-- end Left Nav Barre -->
+
+<td valign="top">
+<!-- main content -->
+
+
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+		<td align="left"><a href="index.php" class="forumlink" style="color:#FF3399;">SLAVX Index du Forum</a></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" cellpadding="0">
+  <tr>
+	<td width="8"><img src="templates/chapatiz/images/index_body_header_left.gif" width="8" height="8"/></td>
+	<td background="templates/chapatiz/images/index_body_header_tile.gif"><img src="templates/chapatiz/images/spacer.gif" width="8" height="8"/></td>
+	<td width="8"><img src="templates/chapatiz/images/index_body_header_right.gif" width="8" height="8"/></td>
+  </tr>
+</table>
+<table width="100%" cellspacing="0" border="0" cellpadding="0">
+  <tr>
+	<td width="3" background="templates/chapatiz/images/index_body_left.gif"><img src="templates/chapatiz/images/spacer" width="3" height="3"/></td>
+	<td bgcolor="#FFFFFF">
+	<!-- content -->
+
+<table class="forumline" width="600" cellspacing="0" cellpadding="4" border="0">
+	<tr>
+		<th class="thHead" height="25" background="templates/chapatiz/images/index_body_thead.gif" valign="top"><b>Informations</b></th>
+	</tr>
+	<tr>
+		<td class="row1"><table width="100%" cellspacing="0" cellpadding="1" border="0">
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="center"><span class="gen">Ce forum est verrouillé; vous ne pouvez pas poster, ni répondre, ni éditer les sujets.</span></td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+
+	<!-- end content -->
+	</td>
+	<td width="3" background="templates/chapatiz/images/index_body_right.gif"><img src="templates/chapatiz/images/spacer" width="3" height="3"/></td>
+  </tr>
+</table>
+<table width="100%" cellspacing="0" border="0" cellpadding="0">
+  <tr>
+	<td width="8"><img src="templates/chapatiz/images/index_body_footer_left.gif" width="8" height="8"/></td>
+	<td background="templates/chapatiz/images/index_body_footer_tile.gif"><img src="templates/chapatiz/images/spacer.gif" width="8" height="8"/></td>
+	<td width="8"><img src="templates/chapatiz/images/index_body_footer_right.gif" width="8" height="8"/></td>
+  </tr>
+</table>
+<br clear="all" />
+
+     </td>
+     <td valign="top"></td>
+	</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,13 @@
+[20-Oct-2009 12:02:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sartay/public_html/forum/includes/page_header.php on line 342
+[20-Oct-2009 12:03:37] PHP Warning:  include(./includes/page_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:03:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/page_header.php' for inclusion (include_path='.:/usr/local/lib/php') in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:03:38] PHP Fatal error:  Call to undefined method sql_db::sql_fetchrw() in /home/sartay/public_html/forum/includes/page_header.php on line 342
+[20-Oct-2009 12:03:46] PHP Warning:  include(./includes/page_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:03:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/page_header.php' for inclusion (include_path='.:/usr/local/lib/php') in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:04:59] PHP Warning:  include(./includes/page_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:04:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/page_header.php' for inclusion (include_path='.:/usr/local/lib/php') in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:05:00] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sartay/public_html/forum/includes/page_header.php on line 391
+[20-Oct-2009 12:05:01] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sartay/public_html/forum/includes/page_header.php on line 391
+[20-Oct-2009 12:05:02] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sartay/public_html/forum/includes/page_header.php on line 391
+[20-Oct-2009 12:10:02] PHP Warning:  include(./includes/page_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sartay/public_html/forum/index.php on line 271
+[20-Oct-2009 12:10:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/page_header.php' for inclusion (include_path='.:/usr/local/lib/php') in /home/sartay/public_html/forum/index.php on line 271

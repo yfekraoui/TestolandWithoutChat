@@ -1,0 +1,40 @@
+body {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #284555;font-color: #284555;background-color: #6090BE;
+background-image: url(/img/chapa_tile_all.gif);background-repeat: repeat-x;background-attachment: scroll;scrollbar-base-color: #6699CC;
+margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;}
+#marginTable {margin-left:150px;}
+a {color: #6090BE;font-weight: bold;}
+a:active {color: #6090BE;text-decoration: none;}
+a:visited {color: #6090BE;text-decoration: none;}
+a:link {color: #6090BE;text-decoration: none;}
+a:hover {color: #6090BE;text-decoration: underline;}
+table {font-size: 11px;font-color: #284555;}
+.titrebeige {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;color: #726338;}
+.titrebleu {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;color: #6090BE;}
+.infobeige {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;font-style: italic;color: #A69052;}
+.footer {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #D5E6F3;}
+.footer a:link{color: #D5E6F3;}
+.footer a:hover{color: #D5E6F3;}
+.footer a:visited{color: #D5E6F3;}
+.footer a:active{color: #D5E6F3;}
+.nav {font: normal 10px Verdana;color: #284555;}
+.nav a:link{color: #284555;font-weight: normal;}
+.nav a:hoover{color: #284555;font-weight: normal;}
+.nav a:visited{color: #284555;	font-weight: normal;}
+.nav a:active{color: #284555;font-weight: normal;}
+.navtitle {color: #6090BE;font-size: 11px;font-weight: bold;}
+.slotservices a:link{color: #FF3399;}
+.slotservices a:hoover{color: #FF3399;}
+.slotservices a:visited{color: #FF3399;}
+.slotservices a:active{color: #FF3399;}
+.subnav a:link{color: #FFFFFF;}
+.subnav a:hoover{color: #FFFFFF;}
+.subnav a:visited{color: #FFFFFF;}
+.subnav a:active{color: #FFFFFF;}
+select, input, textarea {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;}
+.quote {border: 1px solid #EECCCC;background-color: #FFF3F3;}
+.phs {border: 1px solid #B0C9D6;background-color: #E6E6E6;}
+.roz {color:#FF3399;}
+#fich_testoz{padding-top:20px;text-align:center;background-image: url(/img/fich_testoz.gif);width:165px;height:52px;background-repeat:no-repeat;}
+.poltestoz{font: bold 15px Verdana;color: #FFFFFF;}
+.cfrm { display: none; }
+.input_bleu input {background-color: #D6F2FE;border : 1px solid #63CDFA; font-weight: bold;}

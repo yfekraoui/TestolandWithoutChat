@@ -1,0 +1,5 @@
+[30-Sep-2009 11:08:53] PHP Parse error:  syntax error, unexpected '}' in /home/sartay/public_html/includes/config.php on line 6
+[30-Sep-2009 11:09:06] PHP Parse error:  syntax error, unexpected '{' in /home/sartay/public_html/includes/config.php on line 46
+[30-Sep-2009 11:09:09] PHP Parse error:  syntax error, unexpected '{' in /home/sartay/public_html/includes/config.php on line 46
+[14-Oct-2009 10:00:35] PHP Notice:  Undefined variable: config_php in /home/sartay/public_html/includes/site_body.php on line 8
+[14-Oct-2009 10:09:02] PHP Notice:  Undefined variable: config_php in /home/sartay/public_html/includes/site_body.php on line 7

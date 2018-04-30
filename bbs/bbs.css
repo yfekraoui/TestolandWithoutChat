@@ -1,0 +1,143 @@
+.ari
+{
+	margin-left:4px;
+}
+
+.blue_top
+{
+	height:8px;
+	width:852px;
+}
+
+.blue_top_left
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_header_left.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.blue_top_center
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_header_tile.gif');
+	background-repeat:repeat-x;
+	width:836px;
+	height:8px;
+	float:left;
+}
+
+.blue_top_right
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_header_right.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.marks
+{
+	margin-left:5px;
+	margin-bottom:2px;
+}
+
+.white_top
+{
+	height:8px;
+	width:852px;
+}
+
+.white_top_left
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_left_top.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.white_top_center
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_tile_top.gif');
+	background-repeat:repeat-x;
+	width:836px;
+	height:8px;
+	float:left;
+}
+
+.white_top_right
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_right_top.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.white_bottom
+{
+	height:8px;
+	width:852px;
+}
+
+.white_bottom_left
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_left.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.white_bottom_center
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_tile.gif');
+	background-repeat:repeat-x;
+	width:836px;
+	height:8px;
+	float:left;
+}
+
+.white_bottom_right
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_footer_right.gif');
+	background-repeat:no-repeat;
+	width:8px;
+	height:8px;
+	float:left;
+}
+
+.white_center
+{
+	width:852px;
+	height:100%;
+	margin-bottom:0px;
+	background-color:white;
+}
+
+.white_left
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_left.gif');
+	background-repeat:repeat-y;
+	width:3px;
+	height:100%;
+	float:left;
+}
+
+.white_cont
+{
+	background-color:white;
+	width:846px;
+	height:100%;
+	float:left;
+}
+
+.white_right
+{
+	background-image:url('/bbs/templates/chimboz/images/index_body_right.gif');
+	background-repeat:repeat-y;
+	width:3px;
+	height:100%;
+	float:left;
+}
